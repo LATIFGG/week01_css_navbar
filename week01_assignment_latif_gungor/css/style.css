@@ -4,6 +4,8 @@ header {
   background-color: deepskyblue;
   display: table;
 }
+/* margin auto ile yatay ortalama yapabiliyoruz. 
+dikey ortalama icin dis ve ic divlere display ve verticalalign verdim */
 nav {
   display: table-cell;
   vertical-align: middle;
